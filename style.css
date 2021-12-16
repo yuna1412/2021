@@ -182,3 +182,21 @@ h2 {
 .dipped {
   transform: translateY(5px);
 }
+
+@media screen {
+  body {
+    background-color: red;
+  }
+}
+
+@media screen and (min-width: 301px) and (max-width: 600px)  {
+  body {
+    background-color: blue;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  body {
+    background-color: green;
+  }
+}
