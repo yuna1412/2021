@@ -189,7 +189,7 @@ p {
 
 
 //PC用
-@media screen and (min-width: 970px){
+@media screen and (min-width: 940px){
   body {
   }
   .title{
