@@ -188,7 +188,8 @@ p {
 }
 
 
-//PC用
+///PC用
+
 @media screen and (min-width: 970px)  {
   body {
   }
@@ -286,7 +287,8 @@ p {
   }
 }
 
-//スマホ用
+///スマホ用
+
 @media screen and (max-width: 599px){
   body {
   }
