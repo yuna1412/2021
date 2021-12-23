@@ -189,7 +189,7 @@ p {
 
 
 //PC用
-@media screen and (min-width: 900px){
+@media screen and (min-width: 881px){
   body {
   }
   .title{
@@ -202,11 +202,11 @@ p {
     font-size: 50px;
   }
 }
-@media screen and (min-width: 826px) and (max-width: 899px) {
+@media screen and (min-width: 826px) and (max-width: 880px) {
   body {
   }
   .title{
-    font-size:65px;
+    font-size:50px;
   }
   h2 {
     font-size:50px;
