@@ -188,18 +188,17 @@ p {
 }
 
 
-///PC用
-
-@media screen and (min-width: 970px)  {
+//PC用
+@media screen and (min-width: 970px){
   body {
   }
   .title{
     font-size:70px;
   }
-  h2{
+  h2 {
     font-size:60px;
   }
-  p{
+  p {
     font-size: 50px;
   }
 }
@@ -209,10 +208,10 @@ p {
   .title{
     font-size:65px;
   }
-  h2{
+  h2 {
     font-size:50px;
   }
-  p{
+  p {
     font-size: 40px;
   }
 }
@@ -222,10 +221,10 @@ p {
   .title{
     font-size:55px;
   }
-  h2{
+  h2 {
     font-size:45px;
   }
-  p{
+  p {
     font-size: 35px;
   }
 }
@@ -235,10 +234,10 @@ p {
   .title{
     font-size:50px;
   }
-  h2{
+  h2 {
     font-size:40px;
   }
-  p{
+  p {
     font-size: 30px;
   }
 }
@@ -248,10 +247,10 @@ p {
   .title{
     font-size:40px;
   }
-  h2{
+  h2 {
     font-size:35px;
   }
-  p{
+  p {
     font-size: 25px;
   }
 }
@@ -261,10 +260,10 @@ p {
   .title{
     font-size:35px;
   }
-  h2{
+  h2 {
     font-size:30px;
   }
-  p{
+  p {
     font-size: 20px;
   }
 }
@@ -274,22 +273,22 @@ p {
   .title{
     font-size:30px;
   }
-  h2{
+  h2 {
     font-size:25px;
   }
-  p{
+  p {
     font-size: 20px;
   }
 }
 @media screen and (max-width: 520px){
-  .images{
+  .image{
+    max-width: 1200px;
     width: 300%
   }
 }
 
-///スマホ用
-
-@media screen and (max-width: 599px){
+//スマホ用
+@media screen and (max-width: 599px) {
   body {
   }
   .title{
