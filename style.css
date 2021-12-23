@@ -292,6 +292,7 @@ p {
   body {
   }
   .title{
+    max-width: 1200px;
     font-size: 30px;
   }
 }
