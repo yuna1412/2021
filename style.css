@@ -282,7 +282,6 @@ p {
 }
 @media screen and (max-width: 520px){
   .image{
-    max-width: 1200px;
     width: 300%
   }
 }
