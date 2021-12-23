@@ -156,7 +156,7 @@ body {
 button,
 input {
   font-family: inherit;
-  font-size: 100%;
+  font-size: 1200%;
   background: #FFFFFF;
   border: 1px solid #000000;
   box-sizing: border-box;
@@ -168,10 +168,10 @@ input {
 /* Subheading */
 h2 {
   color: #2800FF;
-  font-size: 70px;
+  font-size: 60px;
 }
 p {
-  font-size: 60px;
+  font-size: 50px;
   font-weight: 300px;
 }
 /* Interactive image */
